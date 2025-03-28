@@ -4,6 +4,8 @@ name: Status 418 Dojo
 
 type: hidden
 
+password: imateapot
+
 modules:
 
   - import:
