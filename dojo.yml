@@ -6,6 +6,8 @@ type: hidden
 
 password: imateapot
 
+award: :tea:
+
 modules:
 
   - import:
