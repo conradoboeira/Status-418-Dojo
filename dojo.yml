@@ -1,29 +1,11 @@
-id: example-import
+id: status-418
 
-name: Example Import Dojo
+name: Status 418 Dojo
 
-type: example
+type: hidden
 
 modules:
 
   - import:
-      dojo: example
-      module: hello
-
-  - id: planet
-    name: Planet
-    description: A couple planets.
-
-    challenges:
-
-      - import:
-          dojo: example
-          module: world
-          challenge: earth
-
-      - import:
-          dojo: example
-          module: world
-          challenge: mars
-        name: Martian Planet
-        description: This is a martian planet... mars.
+      dojo: intro-to-cybersecurity
+      module: web-security
