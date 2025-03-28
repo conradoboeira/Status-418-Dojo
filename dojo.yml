@@ -11,3 +11,27 @@ modules:
   - import:
       dojo: intro-to-cybersecurity
       module: web-security
+  
+  - import:
+      dojo: intro-to-cybersecurity
+      module: cryptography
+  
+  - import:
+      dojo: intro-to-cybersecurity
+      module: reverse-engineering
+  
+  - import:
+      dojo: intro-to-cybersecurity
+      module: binary-exploitation
+  
+  - import:
+      dojo: intro-to-cybersecurity
+      module: access-control
+  
+  - import:
+      dojo: intro-to-cybersecurity
+      module: intercepting-communication
+
+  - import:
+      dojo: intro-to-cybersecurity
+      module: integrated-security
