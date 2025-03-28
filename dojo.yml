@@ -6,7 +6,8 @@ type: hidden
 
 password: imateapot
 
-award: 🫖
+award: 
+  emoji: 🫖
 
 modules:
 
